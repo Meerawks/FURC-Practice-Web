@@ -1,0 +1,42 @@
+ * {
+     font-family: montserrat;
+     margin-top: 10px;
+ }
+ 
+ .top {
+     color: rgb(131, 37, 4);
+     text-align: center;
+     font-weight: bold;
+     font-size: 30px;
+ }
+ 
+ img {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 10%;
+ }
+ 
+ h1 {
+     color: rgb(110, 43, 5);
+     text-align: center;
+     margin-top: 40px;
+ }
+ 
+ table {
+     margin-bottom: 20px;
+     margin-right: auto;
+     margin-left: auto;
+     border-collapse: collapse;
+ }
+ 
+ th,
+ td {
+     padding: 10px;
+     border: 1px solid;
+     border-spacing: 100 px;
+ }
+ 
+ .field {
+     color: rgb(23, 76, 78);
+ }
